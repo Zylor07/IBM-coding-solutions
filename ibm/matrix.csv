@@ -1,0 +1,9 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+48,Rotate Image,Medium,80.1%,75.0%,three-months,https://leetcode.com/problems/rotate-image
+54,Spiral Matrix,Medium,56.8%,50.0%,older,https://leetcode.com/problems/spiral-matrix
+79,Word Search,Medium,47.4%,37.5%,older,https://leetcode.com/problems/word-search
+200,Number of Islands,Medium,64.4%,37.5%,older,https://leetcode.com/problems/number-of-islands
+832,Flipping an Image,Easy,83.7%,37.5%,older,https://leetcode.com/problems/flipping-an-image
+994,Rotting Oranges,Medium,58.7%,37.5%,older,https://leetcode.com/problems/rotting-oranges
+2545,Sort the Students by Their Kth Score,Medium,86.0%,62.5%,older,https://leetcode.com/problems/sort-the-students-by-their-kth-score
+3402,Minimum Operations to Make Columns Strictly Increasing,Easy,72.7%,62.5%,older,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing

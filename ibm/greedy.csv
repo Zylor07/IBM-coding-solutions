@@ -1,0 +1,31 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+11,Container With Most Water,Medium,60.0%,50.0%,older,https://leetcode.com/problems/container-with-most-water
+45,Jump Game II,Medium,42.9%,37.5%,older,https://leetcode.com/problems/jump-game-ii
+135,Candy,Hard,48.5%,37.5%,older,https://leetcode.com/problems/candy
+253,Meeting Rooms II,Medium,52.7%,50.0%,six-months,https://leetcode.com/problems/meeting-rooms-ii
+435,Non-overlapping Intervals,Medium,57.1%,50.0%,three-months,https://leetcode.com/problems/non-overlapping-intervals
+680,Valid Palindrome II,Easy,44.3%,50.0%,three-months,https://leetcode.com/problems/valid-palindrome-ii
+763,Partition Labels,Medium,81.9%,37.5%,older,https://leetcode.com/problems/partition-labels
+767,Reorganize String,Medium,57.1%,37.5%,older,https://leetcode.com/problems/reorganize-string
+881,Boats to Save People,Medium,61.8%,50.0%,six-months,https://leetcode.com/problems/boats-to-save-people
+921,Minimum Add to Make Parentheses Valid,Medium,74.4%,37.5%,older,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+1167,Minimum Cost to Connect Sticks,Medium,71.9%,50.0%,older,https://leetcode.com/problems/minimum-cost-to-connect-sticks
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,Hard,78.2%,50.0%,six-months,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array
+1710,Maximum Units on a Truck,Easy,74.9%,62.5%,older,https://leetcode.com/problems/maximum-units-on-a-truck
+1802,Maximum Value at a Given Index in a Bounded Array,Medium,38.9%,37.5%,older,https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array
+1838,Frequency of the Most Frequent Element,Medium,44.8%,37.5%,older,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+1877,Minimize Maximum Pair Sum in Array,Medium,83.3%,37.5%,older,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
+1963,Minimum Number of Swaps to Make the String Balanced,Medium,78.0%,37.5%,older,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+1974,Minimum Time to Type Word Using Special Typewriter,Easy,78.7%,37.5%,older,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,Medium,63.1%,37.5%,older,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+2116,Check if a Parentheses String Can Be Valid,Medium,45.2%,37.5%,older,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid
+2193,Minimum Number of Moves to Make Palindrome,Hard,52.8%,37.5%,six-months,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome
+2405,Optimal Partition of String,Medium,78.4%,37.5%,six-months,https://leetcode.com/problems/optimal-partition-of-string
+2406,Divide Intervals Into Minimum Number of Groups,Medium,63.6%,37.5%,older,https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups
+2429,Minimize XOR,Medium,62.4%,37.5%,six-months,https://leetcode.com/problems/minimize-xor
+2587,Rearrange Array to Maximize Prefix Score,Medium,42.8%,37.5%,older,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score
+2598,Smallest Missing Non-negative Integer After Operations,Medium,56.0%,37.5%,older,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations
+2734,Lexicographically Smallest String After Substring Operation,Medium,34.9%,62.5%,older,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+3107,Minimum Operations to Make Median of Array Equal to K,Medium,47.9%,75.0%,older,https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k
+3402,Minimum Operations to Make Columns Strictly Increasing,Easy,72.7%,62.5%,older,https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing
+3627,Maximum Median Sum of Subsequences of Size 3,Medium,65.1%,50.0%,six-months,https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3

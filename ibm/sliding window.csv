@@ -1,0 +1,13 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+3,Longest Substring Without Repeating Characters,Medium,39.1%,87.5%,thirty-days,https://leetcode.com/problems/longest-substring-without-repeating-characters
+76,Minimum Window Substring,Hard,47.5%,50.0%,six-months,https://leetcode.com/problems/minimum-window-substring
+239,Sliding Window Maximum,Hard,48.8%,50.0%,older,https://leetcode.com/problems/sliding-window-maximum
+992,Subarrays with K Different Integers,Hard,68.1%,37.5%,older,https://leetcode.com/problems/subarrays-with-k-different-integers
+1004,Max Consecutive Ones III,Medium,67.7%,62.5%,older,https://leetcode.com/problems/max-consecutive-ones-iii
+1052,Grumpy Bookstore Owner,Medium,64.0%,37.5%,older,https://leetcode.com/problems/grumpy-bookstore-owner
+1208,Get Equal Substrings Within Budget,Medium,59.7%,37.5%,older,https://leetcode.com/problems/get-equal-substrings-within-budget
+1838,Frequency of the Most Frequent Element,Medium,44.8%,37.5%,older,https://leetcode.com/problems/frequency-of-the-most-frequent-element
+1888,Minimum Number of Flips to Make the Binary String Alternating,Medium,53.5%,62.5%,three-months,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+2134,Minimum Swaps to Group All 1's Together II,Medium,65.6%,37.5%,older,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii
+2461,Maximum Sum of Distinct Subarrays With Length K,Medium,43.0%,62.5%,older,https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k
+2904,Shortest and Lexicographically Smallest Beautiful String,Medium,41.1%,37.5%,older,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string

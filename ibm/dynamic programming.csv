@@ -1,0 +1,22 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+5,Longest Palindromic Substring,Medium,37.8%,62.5%,six-months,https://leetcode.com/problems/longest-palindromic-substring
+22,Generate Parentheses,Medium,78.7%,37.5%,older,https://leetcode.com/problems/generate-parentheses
+32,Longest Valid Parentheses,Hard,38.8%,50.0%,six-months,https://leetcode.com/problems/longest-valid-parentheses
+42,Trapping Rain Water,Hard,67.4%,37.5%,six-months,https://leetcode.com/problems/trapping-rain-water
+45,Jump Game II,Medium,42.9%,37.5%,older,https://leetcode.com/problems/jump-game-ii
+53,Maximum Subarray,Medium,53.3%,50.0%,older,https://leetcode.com/problems/maximum-subarray
+70,Climbing Stairs,Easy,54.1%,50.0%,older,https://leetcode.com/problems/climbing-stairs
+72,Edit Distance,Medium,60.6%,37.5%,three-months,https://leetcode.com/problems/edit-distance
+121,Best Time to Buy and Sell Stock,Easy,56.8%,87.5%,three-months,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+152,Maximum Product Subarray,Medium,36.4%,37.5%,older,https://leetcode.com/problems/maximum-product-subarray
+322,Coin Change,Medium,48.4%,37.5%,six-months,https://leetcode.com/problems/coin-change
+435,Non-overlapping Intervals,Medium,57.1%,50.0%,three-months,https://leetcode.com/problems/non-overlapping-intervals
+647,Palindromic Substrings,Medium,72.8%,37.5%,three-months,https://leetcode.com/problems/palindromic-substrings
+845,Longest Mountain in Array,Medium,42.1%,62.5%,older,https://leetcode.com/problems/longest-mountain-in-array
+926,Flip String to Monotone Increasing,Medium,61.9%,37.5%,older,https://leetcode.com/problems/flip-string-to-monotone-increasing
+1312,Minimum Insertion Steps to Make a String Palindrome,Hard,73.9%,37.5%,older,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1395,Count Number of Teams,Medium,70.2%,37.5%,older,https://leetcode.com/problems/count-number-of-teams
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,Hard,78.2%,50.0%,six-months,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array
+1888,Minimum Number of Flips to Make the Binary String Alternating,Medium,53.5%,62.5%,three-months,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+3130,Find All Possible Stable Binary Arrays II,Hard,58.9%,37.5%,older,https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii
+3147,Taking Maximum Energy From the Mystic Dungeon,Medium,61.0%,62.5%,older,https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon

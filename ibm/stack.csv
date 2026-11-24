@@ -1,0 +1,17 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+20,Valid Parentheses,Easy,44.2%,75.0%,thirty-days,https://leetcode.com/problems/valid-parentheses
+32,Longest Valid Parentheses,Hard,38.8%,50.0%,six-months,https://leetcode.com/problems/longest-valid-parentheses
+42,Trapping Rain Water,Hard,67.4%,37.5%,six-months,https://leetcode.com/problems/trapping-rain-water
+71,Simplify Path,Medium,50.6%,37.5%,older,https://leetcode.com/problems/simplify-path
+155,Min Stack,Medium,58.2%,37.5%,older,https://leetcode.com/problems/min-stack
+636,Exclusive Time of Functions,Medium,66.2%,50.0%,older,https://leetcode.com/problems/exclusive-time-of-functions
+735,Asteroid Collision,Medium,47.9%,37.5%,older,https://leetcode.com/problems/asteroid-collision
+844,Backspace String Compare,Easy,49.9%,50.0%,older,https://leetcode.com/problems/backspace-string-compare
+901,Online Stock Span,Medium,69.1%,37.5%,older,https://leetcode.com/problems/online-stock-span
+921,Minimum Add to Make Parentheses Valid,Medium,74.4%,37.5%,older,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,Hard,78.2%,50.0%,six-months,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array
+1910,Remove All Occurrences of a Substring,Medium,78.5%,37.5%,older,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+1963,Minimum Number of Swaps to Make the String Balanced,Medium,78.0%,37.5%,older,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+2116,Check if a Parentheses String Can Be Valid,Medium,45.2%,37.5%,older,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid
+2390,Removing Stars From a String,Medium,79.3%,37.5%,older,https://leetcode.com/problems/removing-stars-from-a-string
+2696,Minimum String Length After Removing Substrings,Easy,77.2%,50.0%,older,https://leetcode.com/problems/minimum-string-length-after-removing-substrings

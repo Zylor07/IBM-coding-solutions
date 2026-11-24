@@ -1,0 +1,56 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+3,Longest Substring Without Repeating Characters,Medium,39.1%,87.5%,thirty-days,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,Medium,37.8%,62.5%,six-months,https://leetcode.com/problems/longest-palindromic-substring
+12,Integer to Roman,Medium,71.0%,87.5%,three-months,https://leetcode.com/problems/integer-to-roman
+13,Roman to Integer,Easy,66.6%,75.0%,six-months,https://leetcode.com/problems/roman-to-integer
+14,Longest Common Prefix,Easy,47.6%,50.0%,older,https://leetcode.com/problems/longest-common-prefix
+17,Letter Combinations of a Phone Number,Medium,66.1%,62.5%,older,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,Easy,44.2%,75.0%,thirty-days,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,Medium,78.7%,37.5%,older,https://leetcode.com/problems/generate-parentheses
+32,Longest Valid Parentheses,Hard,38.8%,50.0%,six-months,https://leetcode.com/problems/longest-valid-parentheses
+49,Group Anagrams,Medium,72.6%,62.5%,older,https://leetcode.com/problems/group-anagrams
+67,Add Binary,Easy,58.1%,37.5%,older,https://leetcode.com/problems/add-binary
+71,Simplify Path,Medium,50.6%,37.5%,older,https://leetcode.com/problems/simplify-path
+72,Edit Distance,Medium,60.6%,37.5%,three-months,https://leetcode.com/problems/edit-distance
+76,Minimum Window Substring,Hard,47.5%,50.0%,six-months,https://leetcode.com/problems/minimum-window-substring
+79,Word Search,Medium,47.4%,37.5%,older,https://leetcode.com/problems/word-search
+151,Reverse Words in a String,Medium,56.4%,37.5%,older,https://leetcode.com/problems/reverse-words-in-a-string
+242,Valid Anagram,Easy,68.1%,62.5%,older,https://leetcode.com/problems/valid-anagram
+387,First Unique Character in a String,Easy,65.5%,37.5%,older,https://leetcode.com/problems/first-unique-character-in-a-string
+412,Fizz Buzz,Easy,75.5%,100.0%,three-months,https://leetcode.com/problems/fizz-buzz
+443,String Compression,Medium,60.0%,50.0%,older,https://leetcode.com/problems/string-compression
+451,Sort Characters By Frequency,Medium,75.3%,37.5%,older,https://leetcode.com/problems/sort-characters-by-frequency
+647,Palindromic Substrings,Medium,72.8%,37.5%,three-months,https://leetcode.com/problems/palindromic-substrings
+680,Valid Palindrome II,Easy,44.3%,50.0%,three-months,https://leetcode.com/problems/valid-palindrome-ii
+696,Count Binary Substrings,Easy,70.4%,62.5%,older,https://leetcode.com/problems/count-binary-substrings
+763,Partition Labels,Medium,81.9%,37.5%,older,https://leetcode.com/problems/partition-labels
+767,Reorganize String,Medium,57.1%,37.5%,older,https://leetcode.com/problems/reorganize-string
+844,Backspace String Compare,Easy,49.9%,50.0%,older,https://leetcode.com/problems/backspace-string-compare
+921,Minimum Add to Make Parentheses Valid,Medium,74.4%,37.5%,older,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+926,Flip String to Monotone Increasing,Medium,61.9%,37.5%,older,https://leetcode.com/problems/flip-string-to-monotone-increasing
+1163,Last Substring in Lexicographical Order,Hard,35.0%,37.5%,older,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1208,Get Equal Substrings Within Budget,Medium,59.7%,37.5%,older,https://leetcode.com/problems/get-equal-substrings-within-budget
+1312,Minimum Insertion Steps to Make a String Palindrome,Hard,73.9%,37.5%,older,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1513,Number of Substrings With Only 1s,Medium,57.4%,37.5%,six-months,https://leetcode.com/problems/number-of-substrings-with-only-1s
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,Medium,46.3%,37.5%,older,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
+1758,Minimum Changes To Make Alternating Binary String,Easy,67.8%,37.5%,three-months,https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string
+1768,Merge Strings Alternately,Easy,82.1%,50.0%,older,https://leetcode.com/problems/merge-strings-alternately
+1888,Minimum Number of Flips to Make the Binary String Alternating,Medium,53.5%,62.5%,three-months,https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating
+1910,Remove All Occurrences of a Substring,Medium,78.5%,37.5%,older,https://leetcode.com/problems/remove-all-occurrences-of-a-substring
+1963,Minimum Number of Swaps to Make the String Balanced,Medium,78.0%,37.5%,older,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced
+1974,Minimum Time to Type Word Using Special Typewriter,Easy,78.7%,37.5%,older,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
+2038,Remove Colored Pieces if Both Neighbors are the Same Color,Medium,63.1%,37.5%,older,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color
+2116,Check if a Parentheses String Can Be Valid,Medium,45.2%,37.5%,older,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid
+2193,Minimum Number of Moves to Make Palindrome,Hard,52.8%,37.5%,six-months,https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome
+2273,Find Resultant Array After Removing Anagrams,Easy,69.9%,37.5%,older,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams
+2390,Removing Stars From a String,Medium,79.3%,37.5%,older,https://leetcode.com/problems/removing-stars-from-a-string
+2405,Optimal Partition of String,Medium,78.4%,37.5%,six-months,https://leetcode.com/problems/optimal-partition-of-string
+2451,Odd String Difference,Easy,62.0%,37.5%,older,https://leetcode.com/problems/odd-string-difference
+2506,Count Pairs Of Similar Strings,Easy,73.7%,50.0%,older,https://leetcode.com/problems/count-pairs-of-similar-strings
+2559,Count Vowel Strings in Ranges,Medium,67.8%,62.5%,older,https://leetcode.com/problems/count-vowel-strings-in-ranges
+2696,Minimum String Length After Removing Substrings,Easy,77.2%,50.0%,older,https://leetcode.com/problems/minimum-string-length-after-removing-substrings
+2734,Lexicographically Smallest String After Substring Operation,Medium,34.9%,62.5%,older,https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation
+2904,Shortest and Lexicographically Smallest Beautiful String,Medium,41.1%,37.5%,older,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string
+2950,Number of Divisible Substrings,Medium,74.6%,50.0%,older,https://leetcode.com/problems/number-of-divisible-substrings
+3223,Minimum Length of String After Operations,Medium,75.1%,62.5%,older,https://leetcode.com/problems/minimum-length-of-string-after-operations
+3295,Report Spam Message,Medium,48.7%,50.0%,older,https://leetcode.com/problems/report-spam-message

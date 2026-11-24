@@ -1,0 +1,11 @@
+ID,Title,Difficulty,Acceptance %,Frequency %,Recently Asked,URL
+169,Majority Element,Easy,66.3%,37.5%,older,https://leetcode.com/problems/majority-element
+347,Top K Frequent Elements,Medium,66.4%,37.5%,older,https://leetcode.com/problems/top-k-frequent-elements
+387,First Unique Character in a String,Easy,65.5%,37.5%,older,https://leetcode.com/problems/first-unique-character-in-a-string
+451,Sort Characters By Frequency,Medium,75.3%,37.5%,older,https://leetcode.com/problems/sort-characters-by-frequency
+767,Reorganize String,Medium,57.1%,37.5%,older,https://leetcode.com/problems/reorganize-string
+845,Longest Mountain in Array,Medium,42.1%,62.5%,older,https://leetcode.com/problems/longest-mountain-in-array
+992,Subarrays with K Different Integers,Hard,68.1%,37.5%,older,https://leetcode.com/problems/subarrays-with-k-different-integers
+2506,Count Pairs Of Similar Strings,Easy,73.7%,50.0%,older,https://leetcode.com/problems/count-pairs-of-similar-strings
+2950,Number of Divisible Substrings,Medium,74.6%,50.0%,older,https://leetcode.com/problems/number-of-divisible-substrings
+3223,Minimum Length of String After Operations,Medium,75.1%,62.5%,older,https://leetcode.com/problems/minimum-length-of-string-after-operations
